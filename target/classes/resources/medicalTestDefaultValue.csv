@@ -1,0 +1,41 @@
+Test Name,Is Gender Specific,Unit,Min ,Max,MinF,MaxF
+Total WBC Count,0,/cumm,4000,10000,0,0
+Total RBC Count,1,Millions/cumm,4.5,5.5,3.8,4.8
+Hemoglobin,1,g/dL,13,17,12,15
+Packed Cell Volume(HCT),1,%,40,50,36,46
+MCV,0,fL,83,101,0,0
+MCH,0,pg,27,32,0,0
+MCHC,0,g/dL,31.5,34.5,0,0
+RDW,0,%,11.6,14,0,0
+Platelets,0, Thousand/µL,150,400,0,0
+Neutrophils,0,%,40,80,0,0
+Lymphocytes,0,%,20,40,0,0
+Monocytes,0,%,2,10,0,0
+Eosinophils,0,%,1,6,0,0
+Basophils,0,%,0,2,0,0
+Specific gravity,0,,1.003,1.035,0,0
+pH,0,,4.6,8,0,0
+Urobilinogen,0,EU/dL,0.2,1,0,0
+Pus Cells,0,/hpf,0,5,0,0
+Epithelial Cells,0,/hpf,2,3,0,0
+Glycosylated Hemoglobin (HbA1c),0,%,0,5.6,0,0
+Blood Urea Nitrogen,0,mg/dL,8,26,0,0
+Creatinine,1,mg/dL,0.67,1.17,0.51,0.095
+Calcium,0,mg/dL,8.8,10.6,0,0
+Iron,1,µg/dL,70,180,60,180
+HsCRP,0,mg/dL,1,3,0,0
+Cholesterol Total,0,mg/dL,0,200,0,0
+CholesterolHDL,0,mg/dL,40,60,0,0
+LDL Cholesterol - Direct,0,mg/dL,0,130,0,0
+VLDL,0,mg/dL,7,35,0,0
+Triglycerides,0,mg/dL,0,150,0,0
+TC/HDL ratio,0,mg/dL,3.9,5,0,0
+Non HDL-Cholesterol,0,mg/dL,0,130,0,0
+Bilirubin Total,0,mg/dL,0.1,1.2,0,0
+SGPT (ALT),1,U/L,0,50,0,35
+SGOT (AST),1,U/L,0,50,0,35
+GGT,1,U/L,0,55,0,38
+Protein Total,0,g/dL,6.4,8.3,0,0
+Vitamin B12,0,pg/ML,211,911,0,0
+25 - Hydroxy Vitamin D,0,ng/ML,30,100,0,0
+Thyroid Stimulating Hormone(TSH),0,µIU/mL,0.4,4.2,0,0
